@@ -1,3 +1,2 @@
 # intership
-
-Sample project for our intership
+Sample project for our intership.
